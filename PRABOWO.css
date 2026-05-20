@@ -1,0 +1,28 @@
+body{
+    /* background-color:white */
+    background-image:url(rasport.jpg);
+    background-repeat:no-repeat;
+    background-position: bottom;
+
+}
+
+.p1 {
+    text-align: left;
+    text-indent: 2cm;
+}
+.p2 {
+    text-align: center;
+    color: red;
+    text-decoration: black;
+}
+.p3 {
+    text-align: right;
+    text-transform: uppercase;
+}
+.p4 {
+    text-align: justify;
+}
+.trans1 {
+    color: rgb(5, 197, 197);
+    text-transform: initial;
+}
